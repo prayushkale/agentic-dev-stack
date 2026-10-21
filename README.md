@@ -3,7 +3,7 @@
 **One prompt that sets up a curated, deduplicated agentic-development stack for any coding agent.** It works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Command Code and Pi.
 
 ```text
-Read https://github.com/prayushkale/agentic-dev-stack/blob/main/SETUP_PROMPT.md and follow it.
+Read https://raw.githubusercontent.com/prayushkale/agentic-dev-stack/main/SETUP_PROMPT.md and follow it.
 ```
 
 Paste that into your agent. It inspects your machine, interviews you, installs one tool per layer, reads every hook before running it, verifies everything in fresh sessions, and leaves you a runbook.
@@ -49,7 +49,7 @@ These are the parts no README tells you, and they're all baked into the prompt.
 ## Quick start
 
 1. Open your coding agent in any folder.
-2. Paste: `Read https://github.com/prayushkale/agentic-dev-stack/blob/main/SETUP_PROMPT.md and follow it.` (or paste the file itself).
+2. Paste: `Read https://raw.githubusercontent.com/prayushkale/agentic-dev-stack/main/SETUP_PROMPT.md and follow it.` (or paste the file itself).
 3. Answer the interview: harness, work types, design ambition, token appetite.
 4. Approve each step. It backs up your configs first and stops after every step.
 5. Restart your agent and read `~/.agents/SETUP.md`, your personal runbook with manual to-dos, per-repo commands and update steps.

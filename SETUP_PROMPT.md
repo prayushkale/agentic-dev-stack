@@ -1,7 +1,7 @@
 # Agentic Dev Stack: setup prompt
 
 > Paste this whole file into your coding agent (Claude Code, Codex CLI, Cursor, OpenCode, Gemini CLI, Command Code, Pi, Copilot CLI…), or tell it:
-> **"Read https://github.com/prayushkale/agentic-dev-stack/blob/main/SETUP_PROMPT.md and follow it."**
+> **"Read https://raw.githubusercontent.com/prayushkale/agentic-dev-stack/main/SETUP_PROMPT.md and follow it."**
 > The agent will interview you, install one tool per layer, and verify everything. It stops after every step and asks before continuing.
 
 ---
